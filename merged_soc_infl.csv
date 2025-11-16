@@ -1,0 +1,301 @@
+consumer_id,customer_name,age,gender,income_usd,education_level,social_media_usage_hoursday,social_media_platforms,influence_level,purchase_decision,product_category,specific_product,amount_spent_usd,brand_name,city,age_group,salary_group,purchased_mean,purchased_count
+1,alice johnson,0.34285714285714275,female,0.23863636363636365,bachelor's,2.5,"instagram,twitter",very influential,1,fashion,dress,200,"nike, zara",new york,1,0,0.0,21
+2,bob smith,0.7428571428571429,male,0.5795454545454545,master's,1.8375000000000004,"facebook,instagram",somewhat influential,1,electronics,smartphone,455,"apple, samsung",los angeles,3,2,0.8461538461538461,13
+3,chris taylor,0.0,non-binary,0.0,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,chicago,0,0,0.0,31
+4,david brown,1.0,male,0.9204545454545453,phd,3.2,"facebook,linkedin",very influential,1,food,burger,50,mcdonald's,houston,3,3,0.9117647058823529,34
+5,emily white,0.3999999999999999,female,0.46590909090909094,bachelor's,2.0,"instagram,tiktok",somewhat influential,1,beauty,makeup,100,sephora,miami,1,1,0.030303030303030304,33
+6,frank davis,1.0,male,0.9999999999999999,bachelor's,3.5,"twitter,linkedin",very influential,1,electronics,tv,455,samsung,san francisco,3,3,0.9117647058823529,34
+7,grace smith,0.5714285714285714,female,0.5340909090909091,master's,2.2,"instagram,facebook",somewhat influential,1,home decor,sofa,300,ikea,seattle,2,2,0.2727272727272727,22
+8,hannah johnson,0.17142857142857149,female,0.125,bachelor's,3.0,"tiktok,instagram",somewhat influential,1,fashion,shoes,150,h&m,atlanta,0,0,0.0,31
+9,ivan hernandez,0.4571428571428571,male,0.6249999999999999,bachelor's,2.8,"facebook,twitter",very influential,1,electronics,laptop,455,sony,miami,2,2,0.2727272727272727,22
+10,jane adams,0.2857142857142856,female,0.30681818181818177,master's,2.7,"instagram,tiktok",very influential,1,beauty,skincare,120,mac cosmetics,los angeles,0,0,0.0,31
+11,karen white,0.9142857142857141,female,0.8068181818181818,phd,2.0,"linkedin,twitter",somewhat influential,1,fitness,running shoes,250,"nike, adidas",san diego,3,3,0.9117647058823529,34
+12,liam martin,0.11428571428571432,male,0.03409090909090906,high school,3.5374999999999996,"snapchat,instagram",not influential,0,unknown,unknown,0,unknown,boston,0,0,0.0,31
+13,mia garcia,0.5142857142857142,female,0.48863636363636365,bachelor's,2.3,"facebook,tiktok",somewhat influential,1,home decor,bedding,180,"ikea, target",phoenix,2,2,0.2727272727272727,22
+14,noah anderson,0.22857142857142865,male,0.30681818181818177,master's,2.2,"instagram,twitter",very influential,1,fashion,t-shirt,130,"zara, h&m",denver,0,0,0.0,31
+15,olivia lewis,0.3999999999999999,female,0.3749999999999999,bachelor's,3.5374999999999996,"tiktok,snapchat",very influential,1,beauty,lipstick,90,"sephora, l'oréal",chicago,1,0,0.0,21
+16,peter wilson,0.6857142857142857,male,0.8068181818181818,bachelor's,2.5,"facebook,instagram",somewhat influential,1,electronics,tablet,455,"apple, microsoft",new york,3,3,0.9117647058823529,34
+17,quinn adams,0.34285714285714275,female,0.46590909090909094,master's,2.0,"instagram,pinterest",somewhat influential,1,home decor,wall art,220,"ikea, wayfair",austin,1,1,0.030303030303030304,33
+18,ryan martinez,0.7999999999999998,male,0.7613636363636364,bachelor's,2.9,"twitter,linkedin",very influential,1,fitness,gym equipment,180,"nike, under armour",san francisco,3,3,0.9117647058823529,34
+19,sarah brown,0.6285714285714286,female,0.6249999999999999,bachelor's,3.1,"instagram,tiktok",very influential,1,beauty,perfume,110,"sephora, clinique",miami,3,2,0.8461538461538461,13
+20,taylor davis,0.05714285714285716,male,0.17045454545454541,high school,3.5374999999999996,"snapchat,facebook",somewhat influential,1,electronics,headphones,400,"sony, lg",chicago,0,0,0.0,31
+21,vanessa kim,0.3999999999999999,female,0.5340909090909091,bachelor's,2.3,"instagram,twitter",somewhat influential,1,fashion,jeans,140,"levi's, h&m",los angeles,1,2,0.08695652173913043,23
+22,william lee,0.5142857142857142,male,0.6249999999999999,bachelor's,2.7,"facebook,instagram",very influential,1,electronics,camera,455,"canon, nikon",san francisco,2,2,0.2727272727272727,22
+23,xavier miller,0.22857142857142865,male,0.30681818181818177,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,beauty,haircare,70,"pantene, l'oréal",chicago,0,0,0.0,31
+24,yara martinez,0.2857142857142856,female,0.3977272727272726,master's,3.5,"instagram,pinterest",very influential,1,home decor,lighting,250,"ikea, philips",miami,0,1,0.0,22
+25,zane patel,0.6857142857142857,male,0.8522727272727272,phd,2.8,"linkedin,twitter",somewhat influential,1,fitness,dumbbells,120,"bowflex, nordictrack",seattle,3,3,0.9117647058823529,34
+26,ava wilson,0.4571428571428571,female,0.46590909090909094,master's,2.8,"instagram,tiktok",somewhat influential,1,fashion,handbag,250,"coach, michael kors",new york,2,1,0.06451612903225806,31
+27,benjamin davis,0.34285714285714275,male,0.30681818181818177,bachelor's,3.0,"facebook,instagram",very influential,1,electronics,gaming console,400,"sony, microsoft",los angeles,1,0,0.0,21
+28,chloe adams,0.17142857142857149,female,0.26136363636363635,bachelor's,2.7,"tiktok,snapchat",somewhat influential,1,beauty,skincare,90,"neutrogena, cerave",austin,0,0,0.0,31
+29,daniel kim,0.2857142857142856,male,0.3977272727272726,bachelor's,2.2,"instagram,twitter",somewhat influential,1,home decor,furniture,400,"ikea, ashley furniture",boston,0,1,0.0,22
+30,elena garcia,0.3999999999999999,female,0.44318181818181823,master's,2.9,"facebook,tiktok",very influential,1,fashion,sneakers,180,"nike, puma",miami,1,1,0.030303030303030304,33
+31,felix rodriguez,0.6285714285714286,male,0.6249999999999999,phd,3.1,"linkedin,twitter",very influential,1,electronics,smartwatch,300,"apple, garmin",san francisco,3,2,0.8461538461538461,13
+32,gabriella perez,0.22857142857142865,female,0.26136363636363635,bachelor's,2.6,"instagram,tiktok",very influential,1,beauty,perfume,70,"chanel, dior",los angeles,0,0,0.0,31
+33,henry evans,1.0,male,0.9886363636363636,master's,2.2,"twitter,linkedin",somewhat influential,1,fitness,treadmill,455,"nordictrack, peloton",houston,3,3,0.9117647058823529,34
+34,isabella sanchez,0.11428571428571432,female,0.19318181818181812,high school,3.3,"facebook,snapchat",not influential,1,unknown,unknown,0,unknown,chicago,0,0,0.0,31
+35,jack taylor,0.3999999999999999,male,0.5340909090909091,bachelor's,2.9,"instagram,twitter",somewhat influential,1,fashion,watch,350,"rolex, casio",new york,1,2,0.08695652173913043,23
+36,katherine brown,0.7428571428571429,female,0.7613636363636364,master's,3.2,"facebook,pinterest",very influential,1,home decor,curtains,80,"ikea, target",austin,3,3,0.9117647058823529,34
+37,leo martinez,0.6285714285714286,male,0.8068181818181818,bachelor's,2.7,"instagram,tiktok",very influential,1,electronics,headset,150,"sony, bose",san diego,3,3,0.9117647058823529,34
+38,maria lopez,0.2857142857142856,female,0.30681818181818177,bachelor's,2.5,"tiktok,instagram",somewhat influential,1,beauty,nail polish,40,"opi, essie",chicago,0,0,0.0,31
+39,nathan adams,0.34285714285714275,male,0.3977272727272726,master's,2.9,"facebook,twitter",somewhat influential,1,fitness,yoga mat,20,"gaiam, manduka",boston,1,1,0.030303030303030304,33
+40,olivia garcia,0.3999999999999999,female,0.44318181818181823,master's,3.0,"instagram,pinterest",very influential,1,fashion,sunglasses,100,"ray-ban, oakley",miami,1,1,0.030303030303030304,33
+41,liam wilson,0.5714285714285714,male,0.7159090909090909,phd,2.8,"linkedin,twitter",very influential,1,electronics,soundbar,300,"bose, sonos",san francisco,2,3,0.8421052631578947,19
+42,mia johnson,0.22857142857142865,female,0.30681818181818177,bachelor's,2.4,"facebook,tiktok",somewhat influential,1,home decor,kitchen appliances,350,"kitchenaid, cuisinart",phoenix,0,0,0.0,31
+43,noah davis,0.4571428571428571,male,0.5340909090909091,bachelor's,2.5,"snapchat,instagram",somewhat influential,1,fashion,suit,450,"brooks brothers, zara",austin,2,2,0.2727272727272727,22
+44,olivia smith,0.2857142857142856,female,0.3977272727272726,master's,2.3,"instagram,pinterest",very influential,1,beauty,mascara,40,"maybelline, l'oréal",los angeles,0,1,0.0,22
+45,peter johnson,0.9142857142857141,male,0.8522727272727272,phd,2.9,"facebook,linkedin",somewhat influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",seattle,3,3,0.9117647058823529,34
+46,quinn adams,0.34285714285714275,female,0.46590909090909094,master's,2.2,"instagram,twitter",very influential,1,home decor,rugs,120,"ikea, wayfair",atlanta,1,1,0.030303030303030304,33
+47,ryan wilson,0.7999999999999998,male,0.8068181818181818,bachelor's,3.1,"twitter,instagram",very influential,1,electronics,smart speaker,100,"amazon echo, google home",new york,3,3,0.9117647058823529,34
+48,sofia martinez,0.3999999999999999,female,0.44318181818181823,master's,2.7,"tiktok,instagram",somewhat influential,1,beauty,foundation,30,"maybelline, covergirl",miami,1,1,0.030303030303030304,33
+49,thomas smith,0.5714285714285714,male,0.6249999999999999,bachelor's,2.6,"facebook,twitter",somewhat influential,1,fashion,sunglasses,200,"ray-ban, oakley",boston,2,2,0.2727272727272727,22
+50,victoria kim,0.34285714285714275,female,0.30681818181818177,bachelor's,2.1,"instagram,tiktok",very influential,1,home decor,curtains,60,"ikea, target",los angeles,1,0,0.0,21
+51,xavier rodriguez,0.5142857142857142,male,0.5795454545454545,bachelor's,2.9,"twitter,facebook",somewhat influential,1,electronics,gaming console,450,"sony, microsoft",houston,2,2,0.2727272727272727,22
+52,zoe martinez,0.3999999999999999,female,0.5340909090909091,master's,2.7,"instagram,pinterest",very influential,1,beauty,lipstick,40,"mac cosmetics, revlon",seattle,1,2,0.08695652173913043,23
+53,andrew brown,0.6285714285714286,male,0.7613636363636364,phd,2.8,"linkedin,tiktok",very influential,1,fitness,treadmill,455,"nordictrack, peloton",san francisco,3,3,0.9117647058823529,34
+54,bella davis,0.34285714285714275,female,0.3522727272727272,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,fashion,handbag,200,"coach, michael kors",los angeles,1,0,0.0,21
+55,charles kim,0.3999999999999999,male,0.3977272727272726,bachelor's,2.2,"instagram,twitter",somewhat influential,1,home decor,furniture,420,"ikea, west elm",boston,1,1,0.030303030303030304,33
+56,diana johnson,0.22857142857142865,female,0.28409090909090906,bachelor's,2.3,"facebook,tiktok",somewhat influential,1,electronics,bluetooth speaker,70,"jbl, bose",phoenix,0,0,0.0,31
+57,ethan smith,0.34285714285714275,male,0.3977272727272726,bachelor's,2.0,"instagram,twitter",somewhat influential,1,fashion,watch,300,"rolex, seiko",los angeles,1,1,0.030303030303030304,33
+58,fiona brown,0.5714285714285714,female,0.5568181818181818,master's,2.5,"pinterest,instagram",somewhat influential,1,home decor,wall clock,50,"ikea, howard miller",seattle,2,2,0.2727272727272727,22
+59,george martin,0.6857142857142857,male,0.6931818181818182,phd,2.8,"twitter,linkedin",very influential,1,fitness,elliptical machine,455,"nordictrack, sole fitness",houston,3,3,0.9117647058823529,34
+60,hannah davis,0.34285714285714275,female,0.30681818181818177,bachelor's,2.2,"snapchat,instagram",somewhat influential,1,beauty,skincare,80,"neutrogena, cerave",chicago,1,0,0.0,21
+61,isaac johnson,0.2857142857142856,male,0.3749999999999999,bachelor's,2.6,"instagram,twitter",somewhat influential,1,fashion,hoodie,70,"nike, adidas",new york,0,0,0.0,31
+62,jennifer smith,0.6285714285714286,female,0.6249999999999999,master's,2.9,"facebook,tiktok",very influential,1,home decor,wall art,150,"ikea, wayfair",los angeles,3,2,0.8461538461538461,13
+63,kevin wilson,0.3999999999999999,male,0.46590909090909094,bachelor's,2.2,"tiktok,instagram",very influential,1,electronics,wireless earbuds,100,"apple, sony",miami,1,1,0.030303030303030304,33
+64,laura martinez,0.4571428571428571,female,0.5113636363636364,master's,3.2,"instagram,pinterest",very influential,1,beauty,lip gloss,40,"fenty beauty, nyx",austin,2,2,0.2727272727272727,22
+65,michael davis,0.7999999999999998,male,0.8068181818181818,bachelor's,2.7,"facebook,twitter",somewhat influential,1,fitness,weight bench,180,"bowflex, weider",san diego,3,3,0.9117647058823529,34
+66,natalie brown,0.34285714285714275,female,0.30681818181818177,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,fashion,dress,120,"zara, forever 21",chicago,1,0,0.0,21
+67,oliver lee,0.5142857142857142,male,0.6477272727272726,bachelor's,2.8,"instagram,facebook",very influential,1,electronics,drone,350,"dji, gopro",new york,2,3,0.8421052631578947,19
+68,patricia smith,0.3999999999999999,female,0.44318181818181823,master's,2.7,"pinterest,instagram",somewhat influential,1,home decor,throw pillows,60,"ikea, target",los angeles,1,1,0.030303030303030304,33
+69,quentin adams,0.2857142857142856,male,0.3977272727272726,bachelor's,2.3,"twitter,tiktok",somewhat influential,1,fitness,resistance bands,30,"bodylastics, fit simplify",seattle,0,1,0.0,22
+70,rachel kim,0.3999999999999999,female,0.46590909090909094,bachelor's,2.4,"instagram,twitter",somewhat influential,1,beauty,hair dryer,50,"dyson, conair",miami,1,1,0.030303030303030304,33
+71,alexander rodriguez,0.5714285714285714,male,0.6477272727272726,bachelor's,2.5,"instagram,facebook",somewhat influential,1,electronics,laptop,455,"dell, hp",san francisco,2,3,0.8421052631578947,19
+72,bella smith,0.34285714285714275,female,0.30681818181818177,bachelor's,2.0,"tiktok,snapchat",somewhat influential,1,beauty,nail polish,20,"essie, opi",chicago,1,0,0.0,21
+73,caleb wilson,0.4571428571428571,male,0.48863636363636365,bachelor's,2.7,"facebook,twitter",somewhat influential,1,home decor,bedding,150,"ikea, target",phoenix,2,2,0.2727272727272727,22
+74,daisy brown,0.6285714285714286,female,0.6249999999999999,master's,2.8,"instagram,tiktok",very influential,1,fashion,t-shirt,30,"uniqlo, gap",austin,3,2,0.8461538461538461,13
+75,ethan johnson,0.2857142857142856,male,0.3749999999999999,bachelor's,2.2,"twitter,snapchat",somewhat influential,1,electronics,smartphone,455,"samsung, google",new york,0,0,0.0,31
+76,fiona kim,0.34285714285714275,female,0.3522727272727272,bachelor's,2.3,"instagram,tiktok",somewhat influential,1,beauty,mascara,25,"maybelline, l'oréal",los angeles,1,0,0.0,21
+77,george davis,0.7428571428571429,male,0.7613636363636364,bachelor's,3.0,"linkedin,twitter",very influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",seattle,3,3,0.9117647058823529,34
+78,hannah smith,0.3999999999999999,female,0.44318181818181823,master's,2.5,"facebook,instagram",very influential,1,home decor,lighting,200,"philips, ikea",miami,1,1,0.030303030303030304,33
+79,isaac lee,0.5142857142857142,male,0.5795454545454545,bachelor's,2.9,"instagram,twitter",very influential,1,electronics,smartwatch,400,"apple, garmin",san francisco,2,2,0.2727272727272727,22
+80,jasmine patel,0.22857142857142865,female,0.26136363636363635,bachelor's,2.2,"tiktok,snapchat",somewhat influential,1,fashion,jeans,60,"levi's, h&m",chicago,0,0,0.0,31
+81,kevin adams,0.34285714285714275,male,0.3977272727272726,master's,2.8,"instagram,pinterest",somewhat influential,1,beauty,skincare,70,"neutrogena, cerave",new york,1,1,0.030303030303030304,33
+82,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.9,"facebook,tiktok",very influential,1,fitness,yoga mat,25,"gaiam, manduka",austin,1,1,0.030303030303030304,33
+83,mason brown,0.6285714285714286,male,0.6249999999999999,bachelor's,2.7,"twitter,linkedin",somewhat influential,1,electronics,soundbar,250,"bose, sonos",houston,3,2,0.8461538461538461,13
+84,natalie smith,0.2857142857142856,female,0.3977272727272726,master's,2.6,"instagram,pinterest",very influential,1,home decor,wall art,120,"ikea, wayfair",los angeles,0,1,0.0,22
+85,oliver davis,0.5714285714285714,male,0.7159090909090909,phd,3.2,"linkedin,twitter",very influential,1,beauty,lip gloss,35,"fenty beauty, nyx",san diego,2,3,0.8421052631578947,19
+86,paige adams,0.17142857142857149,female,0.17045454545454541,high school,3.5374999999999996,"snapchat,instagram",not influential,0,unknown,unknown,0,unknown,boston,0,0,0.0,31
+87,quinn taylor,0.3999999999999999,male,0.5340909090909091,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,electronics,bluetooth speaker,50,"jbl, sony",seattle,1,2,0.08695652173913043,23
+88,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,3.0,"facebook,instagram",very influential,1,fashion,dress,80,"zara, h&m",chicago,2,2,0.2727272727272727,22
+89,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,2.8,"instagram,twitter",somewhat influential,1,home decor,throw pillows,40,"ikea, target",new york,3,3,0.9117647058823529,34
+90,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,los angeles,0,0,0.0,31
+91,ulysses martinez,0.2857142857142856,male,0.3977272727272726,bachelor's,2.1,"facebook,twitter",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",seattle,0,1,0.0,22
+92,victoria davis,0.34285714285714275,female,0.30681818181818177,bachelor's,2.2,"instagram,pinterest",somewhat influential,1,fitness,resistance bands,20,"bodylastics, fit simplify",boston,1,0,0.0,21
+93,william smith,0.5714285714285714,male,0.6704545454545453,bachelor's,2.9,"twitter,instagram",very influential,1,beauty,foundation,25,"maybelline, covergirl",miami,2,3,0.8421052631578947,19
+94,xander johnson,0.2857142857142856,male,0.4204545454545453,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,home decor,kitchen appliances,400,"kitchenaid, cuisinart",phoenix,0,1,0.0,22
+95,yara taylor,0.3999999999999999,female,0.46590909090909094,master's,2.6,"instagram,facebook",somewhat influential,1,fashion,sunglasses,50,"ray-ban, oakley",san francisco,1,1,0.030303030303030304,33
+96,zane davis,0.6285714285714286,male,0.7386363636363636,phd,3.1,"linkedin,twitter",very influential,1,electronics,camera,455,"canon, nikon",los angeles,3,3,0.9117647058823529,34
+97,ava smith,0.34285714285714275,female,0.3295454545454545,bachelor's,2.7,"facebook,tiktok",somewhat influential,1,home decor,rugs,90,"ikea, wayfair",seattle,1,0,0.0,21
+98,benjamin kim,0.17142857142857149,male,0.21590909090909083,bachelor's,2.3,"instagram,twitter",somewhat influential,1,electronics,smart speaker,60,"amazon echo, google home",chicago,0,0,0.0,31
+99,chloe davis,0.2857142857142856,female,0.3749999999999999,master's,2.8,"pinterest,instagram",very influential,1,beauty,lipstick,30,"mac cosmetics, revlon",boston,0,0,0.0,31
+100,daniel smith,0.4571428571428571,male,0.5340909090909091,bachelor's,2.5,"twitter,snapchat",somewhat influential,1,fitness,dumbbells,40,"bowflex, nordictrack",miami,2,2,0.2727272727272727,22
+101,addison martinez,0.5714285714285714,male,0.6477272727272726,bachelor's,2.4,"instagram,facebook",somewhat influential,1,fashion,sneakers,90,"nike, adidas",austin,2,3,0.8421052631578947,19
+102,bella hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.7,"tiktok,snapchat",somewhat influential,1,home decor,curtains,40,"ikea, target",miami,1,1,0.030303030303030304,33
+103,caleb davis,0.7428571428571429,male,0.7613636363636364,bachelor's,2.9,"facebook,twitter",very influential,1,electronics,laptop,455,"apple, dell",los angeles,3,3,0.9117647058823529,34
+104,daisy kim,0.34285714285714275,female,0.30681818181818177,bachelor's,2.2,"instagram,pinterest",somewhat influential,1,beauty,mascara,15,"maybelline, l'oréal",new york,1,0,0.0,21
+105,ethan smithson,0.5142857142857142,male,0.5795454545454545,bachelor's,2.6,"twitter,snapchat",somewhat influential,1,fitness,treadmill,455,"nordictrack, peloton",chicago,2,2,0.2727272727272727,22
+106,fiona johnson,0.2857142857142856,female,0.3977272727272726,bachelor's,2.8,"instagram,tiktok",somewhat influential,1,home decor,wall art,60,"ikea, wayfair",boston,0,1,0.0,22
+107,george kim,0.5714285714285714,male,0.6249999999999999,bachelor's,2.5,"facebook,linkedin",very influential,1,fashion,jeans,70,"levi's, h&m",seattle,2,2,0.2727272727272727,22
+108,hannah rodriguez,0.3999999999999999,female,0.46590909090909094,master's,3.0,"pinterest,instagram",very influential,1,beauty,lipstick,25,"mac cosmetics, revlon",san francisco,1,1,0.030303030303030304,33
+109,isaac davis,0.6285714285714286,male,0.6704545454545453,phd,3.1,"twitter,linkedin",very influential,1,home decor,throw pillows,45,"ikea, target",houston,3,3,0.9117647058823529,34
+110,jasmine patel,0.22857142857142865,female,0.26136363636363635,bachelor's,2.3,"tiktok,snapchat",somewhat influential,1,electronics,smartphone,455,"samsung, iphone",phoenix,0,0,0.0,31
+111,kevin adams,0.34285714285714275,male,0.3977272727272726,master's,2.7,"instagram,pinterest",somewhat influential,1,fitness,yoga mat,25,"gaiam, manduka",miami,1,1,0.030303030303030304,33
+112,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.8,"facebook,tiktok",very influential,1,fashion,dress,50,"zara, h&m",los angeles,1,1,0.030303030303030304,33
+113,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.5,"instagram,twitter",somewhat influential,1,electronics,smart speaker,70,"amazon echo, google home",seattle,3,2,0.8461538461538461,13
+114,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,home decor,bedding,110,"ikea, target",chicago,0,1,0.0,22
+115,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.2,"linkedin,twitter",very influential,1,beauty,foundation,35,"fenty beauty, maybelline",new york,2,3,0.8421052631578947,19
+116,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.1,"snapchat,instagram",somewhat influential,1,fitness,dumbbells,30,"bowflex, nordictrack",austin,0,0,0.0,31
+117,quinn taylor,0.3999999999999999,male,0.5340909090909091,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,home decor,lighting,80,"philips, ikea",san diego,1,2,0.08695652173913043,23
+118,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,2.9,"facebook,instagram",very influential,1,fashion,t-shirt,20,"uniqlo, gap",boston,2,2,0.2727272727272727,22
+119,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,3.1,"instagram,twitter",somewhat influential,1,electronics,camera,455,"canon, sony",miami,3,3,0.9117647058823529,34
+120,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,los angeles,0,0,0.0,31
+121,addison johnson,0.2857142857142856,male,0.3977272727272726,bachelor's,2.2,"instagram,facebook",somewhat influential,1,fashion,sunglasses,60,"ray-ban, oakley",seattle,0,1,0.0,22
+122,bella taylor,0.4571428571428571,female,0.5340909090909091,master's,2.6,"pinterest,instagram",somewhat influential,1,home decor,rugs,70,"ikea, wayfair",austin,2,2,0.2727272727272727,22
+123,caleb kim,0.3999999999999999,male,0.46590909090909094,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,electronics,wireless earbuds,50,"apple, sony",new york,1,1,0.030303030303030304,33
+124,daisy davis,0.6285714285714286,female,0.6477272727272726,phd,2.9,"facebook,twitter",very influential,1,beauty,lip gloss,25,"fenty beauty, nyx",san francisco,3,3,0.9117647058823529,34
+125,ethan smithers,0.34285714285714275,male,0.23863636363636365,bachelor's,2.2,"instagram,pinterest",somewhat influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",chicago,1,0,0.0,21
+126,fiona kimson,0.2857142857142856,female,0.3295454545454545,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,home decor,throw pillows,35,"ikea, target",los angeles,0,0,0.0,31
+127,george martinez,0.5714285714285714,male,0.6249999999999999,bachelor's,2.8,"instagram,tiktok",very influential,1,fashion,hoodie,40,"nike, adidas",seattle,2,2,0.2727272727272727,22
+128,hannah rodriguez,0.3999999999999999,female,0.44318181818181823,master's,3.0,"facebook,instagram",very influential,1,electronics,smart speaker,70,"amazon echo, google home",miami,1,1,0.030303030303030304,33
+129,isaac davis,0.6285714285714286,male,0.6704545454545453,phd,3.1,"twitter,linkedin",very influential,1,home decor,wall clock,40,"ikea, howard miller",houston,3,3,0.9117647058823529,34
+130,jasmine patel,0.22857142857142865,female,0.26136363636363635,bachelor's,2.3,"instagram,tiktok",somewhat influential,1,electronics,gaming console,400,"sony, microsoft",phoenix,0,0,0.0,31
+131,kevin adams,0.34285714285714275,male,0.3977272727272726,master's,2.7,"instagram,pinterest",somewhat influential,1,fitness,resistance bands,15,"bodylastics, fit simplify",miami,1,1,0.030303030303030304,33
+132,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.8,"facebook,tiktok",very influential,1,fashion,dress,25,"zara, h&m",los angeles,1,1,0.030303030303030304,33
+133,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.5,"instagram,twitter",somewhat influential,1,electronics,smartwatch,120,"apple, garmin",boston,3,2,0.8461538461538461,13
+134,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,50,"ikea, wayfair",seattle,0,1,0.0,22
+135,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.2,"linkedin,twitter",very influential,1,beauty,mascara,20,"maybelline, l'oréal",san diego,2,3,0.8421052631578947,19
+136,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.1,"snapchat,instagram",somewhat influential,1,home decor,bedding,70,"ikea, target",chicago,0,0,0.0,31
+137,quinn taylor,0.3999999999999999,male,0.5340909090909091,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,fashion,jeans,50,"levi's, h&m",new york,1,2,0.08695652173913043,23
+138,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,2.9,"facebook,instagram",very influential,1,fitness,yoga mat,15,"gaiam, manduka",austin,2,2,0.2727272727272727,22
+139,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,3.1,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,40,"apple, sony",los angeles,3,3,0.9117647058823529,34
+140,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,new york,0,0,0.0,31
+141,addison davis,0.6285714285714286,male,0.6704545454545453,phd,2.8,"twitter,instagram",somewhat influential,1,home decor,throw pillows,40,"ikea, target",phoenix,3,3,0.9117647058823529,34
+142,bella kim,0.3999999999999999,female,0.44318181818181823,master's,2.7,"instagram,tiktok",somewhat influential,1,electronics,soundbar,120,"bose, sonos",miami,1,1,0.030303030303030304,33
+143,caleb smith,0.6857142857142857,male,0.8068181818181818,bachelor's,3.0,"facebook,twitter",very influential,1,beauty,lipstick,15,"mac cosmetics, revlon",los angeles,3,3,0.9117647058823529,34
+144,daisy martinez,0.34285714285714275,female,0.30681818181818177,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,fitness,treadmill,455,"nordictrack, peloton",seattle,1,0,0.0,21
+145,ethan johnson,0.2857142857142856,male,0.3977272727272726,bachelor's,2.2,"twitter,snapchat",somewhat influential,1,fashion,dress,40,"zara, h&m",san francisco,0,1,0.0,22
+146,fiona rodriguez,0.4571428571428571,female,0.5113636363636364,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,25,"ikea, wayfair",boston,2,2,0.2727272727272727,22
+147,george davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.6,"facebook,linkedin",somewhat influential,1,electronics,smartwatch,200,"apple, garmin",houston,3,2,0.8461538461538461,13
+148,hannah kim,0.34285714285714275,female,0.3522727272727272,bachelor's,2.4,"instagram,pinterest",somewhat influential,1,fitness,dumbbells,30,"bowflex, nordictrack",chicago,1,0,0.0,21
+149,isaac smith,0.2857142857142856,male,0.4204545454545453,bachelor's,2.7,"tiktok,snapchat",somewhat influential,1,home decor,kitchen appliances,450,"kitchenaid, cuisinart",los angeles,0,1,0.0,22
+150,jasmine adams,0.4571428571428571,female,0.5340909090909091,master's,2.8,"facebook,instagram",very influential,1,fashion,sneakers,70,"nike, adidas",seattle,2,2,0.2727272727272727,22
+151,kevin davis,0.6857142857142857,male,0.7613636363636364,phd,2.9,"twitter,linkedin",very influential,1,electronics,smartphone,455,"samsung, iphone",miami,3,3,0.9117647058823529,34
+152,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.5,"instagram,tiktok",somewhat influential,1,beauty,mascara,20,"maybelline, l'oréal",austin,1,1,0.030303030303030304,33
+153,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.7,"instagram,twitter",somewhat influential,1,home decor,throw pillows,50,"ikea, target",san francisco,3,2,0.8461538461538461,13
+154,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.6,"pinterest,instagram",very influential,1,fashion,jeans,60,"levi's, h&m",chicago,0,1,0.0,22
+155,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,electronics,bluetooth speaker,60,"jbl, sony",new york,2,3,0.8421052631578947,19
+156,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.4,"snapchat,instagram",somewhat influential,1,beauty,skincare,35,"neutrogena, cerave",austin,0,0,0.0,31
+157,quinn taylor,0.3999999999999999,male,0.46590909090909094,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",los angeles,1,1,0.030303030303030304,33
+158,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,2.9,"facebook,instagram",very influential,1,home decor,curtains,40,"ikea, target",seattle,2,2,0.2727272727272727,22
+159,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,3.1,"instagram,twitter",somewhat influential,1,fitness,yoga mat,25,"gaiam, manduka",miami,3,3,0.9117647058823529,34
+160,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,los angeles,0,0,0.0,31
+161,addison kim,0.3999999999999999,male,0.46590909090909094,bachelor's,2.5,"instagram,facebook",somewhat influential,1,electronics,headphones,100,"sony, bose",san diego,1,1,0.030303030303030304,33
+162,bella smith,0.34285714285714275,female,0.30681818181818177,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,beauty,nail polish,10,"essie, opi",new york,1,0,0.0,21
+163,caleb johnson,0.4571428571428571,male,0.48863636363636365,bachelor's,2.6,"facebook,twitter",somewhat influential,1,home decor,bedding,120,"ikea, target",austin,2,2,0.2727272727272727,22
+164,daisy davis,0.6285714285714286,female,0.6249999999999999,master's,2.8,"instagram,tiktok",very influential,1,fashion,t-shirt,20,"uniqlo, gap",seattle,3,2,0.8461538461538461,13
+165,ethan kim,0.2857142857142856,male,0.3749999999999999,bachelor's,2.3,"twitter,snapchat",somewhat influential,1,electronics,smartphone,455,"samsung, iphone",miami,0,0,0.0,31
+166,fiona rodriguez,0.34285714285714275,female,0.3977272727272726,bachelor's,2.4,"instagram,tiktok",somewhat influential,1,beauty,mascara,15,"maybelline, l'oréal",chicago,1,1,0.030303030303030304,33
+167,george kim,0.5714285714285714,male,0.6477272727272726,bachelor's,2.7,"facebook,linkedin",very influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",new york,2,3,0.8421052631578947,19
+168,hannah smith,0.3999999999999999,female,0.44318181818181823,master's,2.5,"pinterest,instagram",very influential,1,home decor,lighting,70,"philips, ikea",san francisco,1,1,0.030303030303030304,33
+169,isaac martinez,0.5142857142857142,male,0.5795454545454545,bachelor's,2.9,"instagram,twitter",very influential,1,electronics,smartwatch,300,"apple, garmin",chicago,2,2,0.2727272727272727,22
+170,jasmine davis,0.22857142857142865,female,0.26136363636363635,bachelor's,2.2,"tiktok,snapchat",somewhat influential,1,fashion,jeans,40,"levi's, h&m",houston,0,0,0.0,31
+171,kevin kim,0.34285714285714275,male,0.3977272727272726,master's,2.6,"instagram,pinterest",somewhat influential,1,beauty,skincare,45,"neutrogena, cerave",miami,1,1,0.030303030303030304,33
+172,lily smith,0.3999999999999999,female,0.44318181818181823,master's,2.7,"facebook,tiktok",very influential,1,fitness,resistance bands,20,"bodylastics, fit simplify",los angeles,1,1,0.030303030303030304,33
+173,mason davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.5,"instagram,twitter",somewhat influential,1,electronics,soundbar,150,"bose, sonos",phoenix,3,2,0.8461538461538461,13
+174,natalie kim,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,90,"ikea, wayfair",austin,0,1,0.0,22
+175,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,beauty,lip gloss,10,"fenty beauty, nyx",seattle,2,3,0.8421052631578947,19
+176,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.3,"snapchat,instagram",somewhat influential,1,electronics,laptop,455,"apple, dell",boston,0,0,0.0,31
+177,quinn martinez,0.3999999999999999,male,0.5340909090909091,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,home decor,curtains,30,"ikea, target",los angeles,1,2,0.08695652173913043,23
+178,rachel davis,0.4571428571428571,female,0.5113636363636364,master's,2.7,"facebook,instagram",very influential,1,fashion,sneakers,80,"nike, adidas",new york,2,2,0.2727272727272727,22
+179,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,2.9,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,50,"apple, sony",miami,3,3,0.9117647058823529,34
+180,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,seattle,0,0,0.0,31
+181,addison smith,0.34285714285714275,male,0.3295454545454545,bachelor's,2.2,"instagram,facebook",somewhat influential,1,home decor,kitchen appliances,250,"kitchenaid, cuisinart",phoenix,1,0,0.0,21
+182,bella johnson,0.2857142857142856,female,0.3977272727272726,bachelor's,2.3,"tiktok,snapchat",somewhat influential,1,electronics,wireless earbuds,80,"apple, sony",austin,0,1,0.0,22
+183,caleb davis,0.6285714285714286,male,0.6704545454545453,phd,3.1,"twitter,linkedin",very influential,1,fitness,yoga mat,20,"gaiam, manduka",chicago,3,3,0.9117647058823529,34
+184,daisy kim,0.3999999999999999,female,0.46590909090909094,master's,2.7,"instagram,pinterest",very influential,1,beauty,foundation,30,"fenty beauty, maybelline",seattle,1,1,0.030303030303030304,33
+185,ethan smithers,0.34285714285714275,male,0.26136363636363635,bachelor's,2.4,"snapchat,instagram",somewhat influential,1,fashion,sneakers,60,"nike, adidas",san francisco,1,0,0.0,21
+186,fiona davis,0.2857142857142856,female,0.3522727272727272,bachelor's,2.5,"instagram,tiktok",somewhat influential,1,home decor,wall clock,35,"ikea, howard miller",los angeles,0,0,0.0,31
+187,george kimson,0.5714285714285714,male,0.6022727272727272,bachelor's,2.8,"facebook,linkedin",very influential,1,electronics,laptop,455,"apple, dell",houston,2,2,0.2727272727272727,22
+188,hannah rodriguez,0.3999999999999999,female,0.44318181818181823,master's,2.6,"pinterest,instagram",very influential,1,fashion,dress,50,"zara, h&m",miami,1,1,0.030303030303030304,33
+189,isaac davis,0.2857142857142856,male,0.4204545454545453,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",new york,0,1,0.0,22
+190,jasmine patel,0.22857142857142865,female,0.28409090909090906,bachelor's,2.3,"instagram,tiktok",somewhat influential,1,home decor,curtains,40,"ikea, target",austin,0,0,0.0,31
+191,kevin adams,0.34285714285714275,male,0.3977272727272726,master's,2.7,"instagram,pinterest",somewhat influential,1,electronics,smart speaker,60,"amazon echo, google home",san diego,1,1,0.030303030303030304,33
+192,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.8,"facebook,tiktok",very influential,1,fitness,resistance bands,25,"bodylastics, fit simplify",boston,1,1,0.030303030303030304,33
+193,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.6,"instagram,twitter",somewhat influential,1,electronics,bluetooth speaker,70,"jbl, sony",phoenix,3,2,0.8461538461538461,13
+194,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,beauty,lip gloss,15,"mac cosmetics, revlon",austin,0,1,0.0,22
+195,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,home decor,bedding,80,"ikea, target",chicago,2,3,0.8421052631578947,19
+196,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.2,"snapchat,instagram",somewhat influential,1,electronics,smartwatch,250,"apple, garmin",los angeles,0,0,0.0,31
+197,quinn taylor,0.3999999999999999,male,0.5113636363636364,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,fashion,jeans,50,"levi's, h&m",houston,1,2,0.08695652173913043,23
+198,rachel wilson,0.4571428571428571,female,0.48863636363636365,master's,2.7,"facebook,instagram",very influential,1,fitness,yoga mat,20,"gaiam, manduka",new york,2,2,0.2727272727272727,22
+199,samuel kim,0.6857142857142857,male,0.7613636363636364,bachelor's,2.9,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,40,"apple, sony",miami,3,3,0.9117647058823529,34
+200,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,seattle,0,0,0.0,31
+201,addison davis,0.6285714285714286,male,0.6704545454545453,phd,2.8,"twitter,instagram",somewhat influential,1,home decor,throw pillows,40,"ikea, target",phoenix,3,3,0.9117647058823529,34
+202,bella kim,0.3999999999999999,female,0.44318181818181823,master's,2.7,"instagram,tiktok",somewhat influential,1,electronics,soundbar,120,"bose, sonos",miami,1,1,0.030303030303030304,33
+203,caleb smith,0.6857142857142857,male,0.8068181818181818,bachelor's,3.0,"facebook,twitter",very influential,1,beauty,lipstick,15,"mac cosmetics, revlon",los angeles,3,3,0.9117647058823529,34
+204,daisy martinez,0.34285714285714275,female,0.30681818181818177,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,fitness,treadmill,455,"nordictrack, peloton",seattle,1,0,0.0,21
+205,ethan johnson,0.2857142857142856,male,0.3977272727272726,bachelor's,2.2,"twitter,snapchat",somewhat influential,1,fashion,dress,40,"zara, h&m",san francisco,0,1,0.0,22
+206,fiona rodriguez,0.4571428571428571,female,0.5113636363636364,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,25,"ikea, wayfair",boston,2,2,0.2727272727272727,22
+207,george davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.6,"facebook,linkedin",somewhat influential,1,electronics,smartwatch,200,"apple, garmin",houston,3,2,0.8461538461538461,13
+208,hannah kim,0.34285714285714275,female,0.3522727272727272,bachelor's,2.4,"instagram,pinterest",somewhat influential,1,fitness,dumbbells,30,"bowflex, nordictrack",chicago,1,0,0.0,21
+209,isaac smith,0.2857142857142856,male,0.4204545454545453,bachelor's,2.7,"tiktok,snapchat",somewhat influential,1,home decor,kitchen appliances,450,"kitchenaid, cuisinart",los angeles,0,1,0.0,22
+210,jasmine adams,0.4571428571428571,female,0.5340909090909091,master's,2.8,"facebook,instagram",very influential,1,fashion,sneakers,70,"nike, adidas",seattle,2,2,0.2727272727272727,22
+211,kevin davis,0.6857142857142857,male,0.7613636363636364,phd,2.9,"twitter,linkedin",very influential,1,electronics,smartphone,455,"samsung, iphone",miami,3,3,0.9117647058823529,34
+212,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.5,"instagram,tiktok",somewhat influential,1,beauty,mascara,20,"maybelline, l'oréal",austin,1,1,0.030303030303030304,33
+213,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.7,"instagram,twitter",somewhat influential,1,home decor,throw pillows,50,"ikea, target",san francisco,3,2,0.8461538461538461,13
+214,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.6,"pinterest,instagram",very influential,1,fashion,jeans,60,"levi's, h&m",chicago,0,1,0.0,22
+215,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,electronics,bluetooth speaker,60,"jbl, sony",new york,2,3,0.8421052631578947,19
+216,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.4,"snapchat,instagram",somewhat influential,1,beauty,skincare,35,"neutrogena, cerave",austin,0,0,0.0,31
+217,quinn taylor,0.3999999999999999,male,0.46590909090909094,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",los angeles,1,1,0.030303030303030304,33
+218,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,2.9,"facebook,instagram",very influential,1,home decor,curtains,40,"ikea, target",seattle,2,2,0.2727272727272727,22
+219,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,3.1,"instagram,twitter",somewhat influential,1,fitness,yoga mat,25,"gaiam, manduka",miami,3,3,0.9117647058823529,34
+220,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,los angeles,0,0,0.0,31
+221,addison kim,0.3999999999999999,male,0.46590909090909094,bachelor's,2.5,"instagram,facebook",somewhat influential,1,electronics,headphones,100,"sony, bose",san diego,1,1,0.030303030303030304,33
+222,bella smith,0.34285714285714275,female,0.30681818181818177,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,beauty,nail polish,10,"essie, opi",new york,1,0,0.0,21
+223,caleb johnson,0.4571428571428571,male,0.48863636363636365,bachelor's,2.6,"facebook,twitter",somewhat influential,1,home decor,bedding,120,"ikea, target",austin,2,2,0.2727272727272727,22
+224,daisy davis,0.6285714285714286,female,0.6249999999999999,master's,2.8,"instagram,tiktok",very influential,1,fashion,t-shirt,20,"uniqlo, gap",seattle,3,2,0.8461538461538461,13
+225,ethan kim,0.2857142857142856,male,0.3749999999999999,bachelor's,2.3,"twitter,snapchat",somewhat influential,1,electronics,smartphone,455,"samsung, iphone",miami,0,0,0.0,31
+226,fiona rodriguez,0.34285714285714275,female,0.3977272727272726,bachelor's,2.4,"instagram,tiktok",somewhat influential,1,beauty,mascara,15,"maybelline, l'oréal",chicago,1,1,0.030303030303030304,33
+227,george kim,0.5714285714285714,male,0.6477272727272726,bachelor's,2.7,"facebook,linkedin",very influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",new york,2,3,0.8421052631578947,19
+228,hannah smith,0.3999999999999999,female,0.44318181818181823,master's,2.5,"pinterest,instagram",very influential,1,home decor,lighting,70,"philips, ikea",san francisco,1,1,0.030303030303030304,33
+229,isaac martinez,0.5142857142857142,male,0.5795454545454545,bachelor's,2.9,"instagram,twitter",very influential,1,electronics,smartwatch,300,"apple, garmin",chicago,2,2,0.2727272727272727,22
+230,jasmine davis,0.22857142857142865,female,0.26136363636363635,bachelor's,2.2,"tiktok,snapchat",somewhat influential,1,fashion,jeans,40,"levi's, h&m",houston,0,0,0.0,31
+231,kevin kim,0.34285714285714275,male,0.3977272727272726,master's,2.6,"instagram,pinterest",somewhat influential,1,beauty,skincare,45,"neutrogena, cerave",miami,1,1,0.030303030303030304,33
+232,lily smith,0.3999999999999999,female,0.44318181818181823,master's,2.7,"facebook,tiktok",very influential,1,fitness,resistance bands,20,"bodylastics, fit simplify",los angeles,1,1,0.030303030303030304,33
+233,mason davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.5,"instagram,twitter",somewhat influential,1,electronics,soundbar,150,"bose, sonos",phoenix,3,2,0.8461538461538461,13
+234,natalie kim,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,90,"ikea, wayfair",austin,0,1,0.0,22
+235,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,beauty,lip gloss,10,"fenty beauty, nyx",seattle,2,3,0.8421052631578947,19
+236,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.3,"snapchat,instagram",somewhat influential,1,electronics,laptop,455,"apple, dell",boston,0,0,0.0,31
+237,quinn martinez,0.3999999999999999,male,0.5340909090909091,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,home decor,curtains,30,"ikea, target",los angeles,1,2,0.08695652173913043,23
+238,rachel davis,0.4571428571428571,female,0.5113636363636364,master's,2.7,"facebook,instagram",very influential,1,fashion,sneakers,80,"nike, adidas",new york,2,2,0.2727272727272727,22
+239,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,2.9,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,50,"apple, sony",miami,3,3,0.9117647058823529,34
+240,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,seattle,0,0,0.0,31
+241,addison smith,0.34285714285714275,male,0.3295454545454545,bachelor's,2.2,"instagram,facebook",somewhat influential,1,home decor,kitchen appliances,250,"kitchenaid, cuisinart",phoenix,1,0,0.0,21
+242,bella johnson,0.2857142857142856,female,0.3977272727272726,bachelor's,2.3,"tiktok,snapchat",somewhat influential,1,electronics,wireless earbuds,80,"apple, sony",austin,0,1,0.0,22
+243,caleb davis,0.6285714285714286,male,0.6704545454545453,phd,3.1,"twitter,linkedin",very influential,1,fitness,yoga mat,20,"gaiam, manduka",chicago,3,3,0.9117647058823529,34
+244,daisy kim,0.3999999999999999,female,0.46590909090909094,master's,2.7,"instagram,pinterest",very influential,1,beauty,foundation,30,"fenty beauty, maybelline",seattle,1,1,0.030303030303030304,33
+245,ethan smithers,0.34285714285714275,male,0.26136363636363635,bachelor's,2.4,"snapchat,instagram",somewhat influential,1,fashion,sneakers,60,"nike, adidas",san francisco,1,0,0.0,21
+246,fiona davis,0.2857142857142856,female,0.3522727272727272,bachelor's,2.5,"instagram,tiktok",somewhat influential,1,home decor,wall clock,35,"ikea, howard miller",los angeles,0,0,0.0,31
+247,george kimson,0.5714285714285714,male,0.6022727272727272,bachelor's,2.8,"facebook,linkedin",very influential,1,electronics,laptop,455,"apple, dell",houston,2,2,0.2727272727272727,22
+248,hannah rodriguez,0.3999999999999999,female,0.44318181818181823,master's,2.6,"pinterest,instagram",very influential,1,fashion,dress,50,"zara, h&m",miami,1,1,0.030303030303030304,33
+249,isaac davis,0.2857142857142856,male,0.4204545454545453,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",new york,0,1,0.0,22
+250,jasmine patel,0.22857142857142865,female,0.28409090909090906,bachelor's,2.3,"instagram,tiktok",somewhat influential,1,home decor,curtains,40,"ikea, target",austin,0,0,0.0,31
+251,kevin adams,0.34285714285714275,male,0.3977272727272726,master's,2.7,"instagram,pinterest",somewhat influential,1,electronics,smart speaker,60,"amazon echo, google home",san diego,1,1,0.030303030303030304,33
+252,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.8,"facebook,tiktok",very influential,1,fitness,resistance bands,25,"bodylastics, fit simplify",boston,1,1,0.030303030303030304,33
+253,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.6,"instagram,twitter",somewhat influential,1,electronics,bluetooth speaker,70,"jbl, sony",phoenix,3,2,0.8461538461538461,13
+254,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,beauty,lip gloss,15,"mac cosmetics, revlon",austin,0,1,0.0,22
+255,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,home decor,bedding,80,"ikea, target",chicago,2,3,0.8421052631578947,19
+256,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.2,"snapchat,instagram",somewhat influential,1,electronics,smartwatch,250,"apple, garmin",los angeles,0,0,0.0,31
+257,quinn martinez,0.3999999999999999,male,0.5340909090909091,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,home decor,curtains,30,"ikea, target",houston,1,2,0.08695652173913043,23
+258,rachel davis,0.4571428571428571,female,0.5113636363636364,master's,2.7,"facebook,instagram",very influential,1,fashion,sneakers,80,"nike, adidas",new york,2,2,0.2727272727272727,22
+259,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,2.9,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,50,"apple, sony",miami,3,3,0.9117647058823529,34
+260,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,seattle,0,0,0.0,31
+261,addison davis,0.6285714285714286,male,0.6704545454545453,phd,2.8,"twitter,instagram",somewhat influential,1,home decor,throw pillows,40,"ikea, target",phoenix,3,3,0.9117647058823529,34
+262,bella kim,0.3999999999999999,female,0.44318181818181823,master's,2.7,"instagram,tiktok",somewhat influential,1,electronics,soundbar,120,"bose, sonos",miami,1,1,0.030303030303030304,33
+263,caleb smith,0.6857142857142857,male,0.8068181818181818,bachelor's,3.0,"facebook,twitter",very influential,1,beauty,lipstick,15,"mac cosmetics, revlon",los angeles,3,3,0.9117647058823529,34
+264,daisy martinez,0.34285714285714275,female,0.30681818181818177,bachelor's,2.5,"tiktok,snapchat",somewhat influential,1,fitness,treadmill,455,"nordictrack, peloton",seattle,1,0,0.0,21
+265,ethan johnson,0.2857142857142856,male,0.3977272727272726,bachelor's,2.2,"twitter,snapchat",somewhat influential,1,fashion,dress,40,"zara, h&m",san francisco,0,1,0.0,22
+266,fiona rodriguez,0.4571428571428571,female,0.5113636363636364,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,25,"ikea, wayfair",boston,2,2,0.2727272727272727,22
+267,george davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.6,"facebook,linkedin",somewhat influential,1,electronics,smartwatch,200,"apple, garmin",houston,3,2,0.8461538461538461,13
+268,hannah kim,0.34285714285714275,female,0.3522727272727272,bachelor's,2.4,"instagram,pinterest",somewhat influential,1,fitness,dumbbells,30,"bowflex, nordictrack",chicago,1,0,0.0,21
+269,isaac smith,0.2857142857142856,male,0.4204545454545453,bachelor's,2.7,"tiktok,snapchat",somewhat influential,1,home decor,kitchen appliances,450,"kitchenaid, cuisinart",los angeles,0,1,0.0,22
+270,jasmine adams,0.4571428571428571,female,0.5340909090909091,master's,2.8,"facebook,instagram",very influential,1,fashion,sneakers,70,"nike, adidas",seattle,2,2,0.2727272727272727,22
+271,kevin davis,0.6857142857142857,male,0.7613636363636364,phd,2.9,"twitter,linkedin",very influential,1,electronics,smartphone,455,"samsung, iphone",miami,3,3,0.9117647058823529,34
+272,lily hernandez,0.3999999999999999,female,0.44318181818181823,master's,2.5,"instagram,tiktok",somewhat influential,1,beauty,mascara,20,"maybelline, l'oréal",austin,1,1,0.030303030303030304,33
+273,mason smith,0.6285714285714286,male,0.6249999999999999,bachelor's,2.7,"instagram,twitter",somewhat influential,1,home decor,throw pillows,50,"ikea, target",san francisco,3,2,0.8461538461538461,13
+274,natalie davis,0.2857142857142856,female,0.3977272727272726,master's,2.6,"pinterest,instagram",very influential,1,fashion,jeans,60,"levi's, h&m",chicago,0,1,0.0,22
+275,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,electronics,bluetooth speaker,60,"jbl, sony",new york,2,3,0.8421052631578947,19
+276,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.4,"snapchat,instagram",somewhat influential,1,beauty,skincare,35,"neutrogena, cerave",austin,0,0,0.0,31
+277,quinn taylor,0.3999999999999999,male,0.46590909090909094,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,electronics,gaming console,350,"sony, microsoft",los angeles,1,1,0.030303030303030304,33
+278,rachel wilson,0.4571428571428571,female,0.5113636363636364,master's,2.9,"facebook,instagram",very influential,1,home decor,curtains,40,"ikea, target",seattle,2,2,0.2727272727272727,22
+279,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,3.1,"instagram,twitter",somewhat influential,1,fitness,yoga mat,25,"gaiam, manduka",miami,3,3,0.9117647058823529,34
+280,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,los angeles,0,0,0.0,31
+281,addison kim,0.3999999999999999,male,0.46590909090909094,bachelor's,2.5,"instagram,facebook",somewhat influential,1,electronics,headphones,100,"sony, bose",san diego,1,1,0.030303030303030304,33
+282,bella smith,0.34285714285714275,female,0.30681818181818177,bachelor's,2.4,"tiktok,snapchat",somewhat influential,1,beauty,nail polish,10,"essie, opi",new york,1,0,0.0,21
+283,caleb johnson,0.4571428571428571,male,0.48863636363636365,bachelor's,2.6,"facebook,twitter",somewhat influential,1,home decor,bedding,120,"ikea, target",austin,2,2,0.2727272727272727,22
+284,daisy davis,0.6285714285714286,female,0.6249999999999999,master's,2.8,"instagram,tiktok",very influential,1,fashion,t-shirt,20,"uniqlo, gap",seattle,3,2,0.8461538461538461,13
+285,ethan kim,0.2857142857142856,male,0.3749999999999999,bachelor's,2.3,"twitter,snapchat",somewhat influential,1,electronics,smartphone,455,"samsung, iphone",miami,0,0,0.0,31
+286,fiona rodriguez,0.34285714285714275,female,0.3977272727272726,bachelor's,2.4,"instagram,tiktok",somewhat influential,1,beauty,mascara,15,"maybelline, l'oréal",chicago,1,1,0.030303030303030304,33
+287,george kim,0.5714285714285714,male,0.6477272727272726,bachelor's,2.7,"facebook,linkedin",very influential,1,fitness,home gym equipment,455,"bowflex, nordictrack",new york,2,3,0.8421052631578947,19
+288,hannah smith,0.3999999999999999,female,0.44318181818181823,master's,2.5,"pinterest,instagram",very influential,1,home decor,lighting,70,"philips, ikea",san francisco,1,1,0.030303030303030304,33
+289,isaac martinez,0.5142857142857142,male,0.5795454545454545,bachelor's,2.9,"instagram,twitter",very influential,1,electronics,smartwatch,300,"apple, garmin",chicago,2,2,0.2727272727272727,22
+290,jasmine davis,0.22857142857142865,female,0.26136363636363635,bachelor's,2.2,"tiktok,snapchat",somewhat influential,1,fashion,jeans,40,"levi's, h&m",houston,0,0,0.0,31
+291,kevin kim,0.34285714285714275,male,0.3977272727272726,master's,2.6,"instagram,pinterest",somewhat influential,1,beauty,skincare,45,"neutrogena, cerave",miami,1,1,0.030303030303030304,33
+292,lily smith,0.3999999999999999,female,0.44318181818181823,master's,2.7,"facebook,tiktok",very influential,1,fitness,resistance bands,20,"bodylastics, fit simplify",los angeles,1,1,0.030303030303030304,33
+293,mason davis,0.6285714285714286,male,0.6249999999999999,bachelor's,2.5,"instagram,twitter",somewhat influential,1,electronics,soundbar,150,"bose, sonos",phoenix,3,2,0.8461538461538461,13
+294,natalie kim,0.2857142857142856,female,0.3977272727272726,master's,2.9,"pinterest,instagram",very influential,1,home decor,wall art,90,"ikea, wayfair",austin,0,1,0.0,22
+295,oliver johnson,0.5714285714285714,male,0.6477272727272726,phd,3.0,"linkedin,twitter",very influential,1,beauty,lip gloss,10,"fenty beauty, nyx",seattle,2,3,0.8421052631578947,19
+296,paige adams,0.17142857142857149,female,0.21590909090909083,bachelor's,2.3,"snapchat,instagram",somewhat influential,1,electronics,laptop,455,"apple, dell",boston,0,0,0.0,31
+297,quinn martinez,0.3999999999999999,male,0.5340909090909091,bachelor's,2.8,"tiktok,snapchat",somewhat influential,1,home decor,curtains,30,"ikea, target",los angeles,1,2,0.08695652173913043,23
+298,rachel davis,0.4571428571428571,female,0.5113636363636364,master's,2.7,"facebook,instagram",very influential,1,fashion,sneakers,80,"nike, adidas",new york,2,2,0.2727272727272727,22
+299,samuel kim,0.6857142857142857,male,0.8068181818181818,bachelor's,2.9,"instagram,twitter",somewhat influential,1,electronics,wireless earbuds,50,"apple, sony",miami,3,3,0.9117647058823529,34
+300,taylor hernandez,0.05714285714285716,female,0.03409090909090906,high school,3.5374999999999996,"tiktok,snapchat",not influential,0,unknown,unknown,0,unknown,seattle,0,0,0.0,31
